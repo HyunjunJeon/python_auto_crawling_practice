@@ -3,8 +3,9 @@ import subprocess
 
 '''
 OpenCV 까지 적용했을 때 mac 에서도 동작함
-- pip install opencv-python
+- pip install pyautogui
 - pip install image
+- pip install opencv-python
 - Retina Display 보정을 위한 x,y 좌표 => x/2, y/2
 '''
 
